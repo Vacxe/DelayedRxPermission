@@ -1,3 +1,3 @@
 # DelayedRxPermission
-How to use RxPermission with delayed request
-[RxPermissions](https://github.com/tbruyelle/RxPermissions)
+How to use [RxPermissions](https://github.com/tbruyelle/RxPermissions) with delayed request
+
